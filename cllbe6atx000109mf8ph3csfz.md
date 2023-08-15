@@ -24,7 +24,7 @@ Technological advancements are progressing at an accelerating rate, constantly i
 Artificial Intelligence (AI) and Machine Learning (ML) are rapidly transforming various industries. AI refers to the development of intelligent machines that can perform tasks that typically require human intelligence. Machine Learning, on the other hand, is a subset of AI that focuses on enabling machines to learn from data and improve their performance over time. These technologies have the potential to revolutionize healthcare, finance, transportation, and many other sectors. AI and ML can automate processes, improve efficiency, and provide valuable insights from significant amounts of data.
 
 
-![AI & ML Image](/Users/rohan/Library/CloudStorage/Dropbox/Blogs/TechSavvy/AI&MachineLearning.png)
+![AI & ML Image](https://github.com/rohanr07/x/blob/fffafdb6137bf5ee7374e046cf7797ce9521cac1/AI%26MachineLearning.png)
 
 
 
